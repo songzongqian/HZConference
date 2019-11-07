@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Best\HzConference\SDKWrapper\src\main\assets"/><source path="E:\Best\HzConference\SDKWrapper\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Best\HzConference\SDKWrapper\src\debug\assets"/></dataSet></merger>
